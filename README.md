@@ -2,7 +2,7 @@
 
 Aplikasi web quiz matematika sederhana untuk membantu anak belajar dan menghafal operasi hitung dasar. Dibuat dengan **Python** dan **Streamlit**, nyaman dibuka lewat smartphone.
 
-🔗 **Coba langsung:** <tempel URL Streamlit di sini>
+🔗 **Coba langsung:** [<tempel URL Streamlit di sini>](https://mathquiz-wedhasmoro.streamlit.app/)
 
 ## ✨ Fitur
 
