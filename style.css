@@ -1,0 +1,22 @@
+/* Tombol: tinggi dan huruf lebih besar */
+div.stButton > button {
+    min-height: 3.5rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    border-radius: 14px;
+}
+
+/* Judul dan soal di tengah */
+h1, h2, h3 {
+    text-align: center;
+}
+
+/* Kurangi ruang kosong di atas halaman */
+.block-container {
+    padding-top: 2rem;
+}
+
+/* Sembunyikan menu dan footer bawaan Streamlit */
+#MainMenu, footer {
+    visibility: hidden;
+}
